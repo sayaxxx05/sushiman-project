@@ -7,6 +7,10 @@ Welcome to **Sushiman**, a beautifully designed and fully responsive Japanese re
 - **HTML5** - Semantic and accessible markup
 - **CSS3** - Flexbox, Grid, animations, and CSS variables
 
+## 🔥 Live Demo
+
+https://sayaxxx05.github.io/sushiman-project/
+
 ## ✨ Features
 
 - 🎨 **CSS Variables**: Maintain a consistent and adjustable styling approach across the project.
