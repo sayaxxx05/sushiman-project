@@ -1,52 +1,46 @@
-# 🍣 Sushiman - Japanese Restaurant Website
+# SushiMan Project
 
-Welcome to **Sushiman**, a beautifully designed and fully responsive Japanese restaurant website. This project showcases a modern and engaging UI, featuring smooth animations, an intuitive navigation experience, and well-structured content sections.
+SushiMan is a sushi delivery landing page built with pure HTML, CSS, and JavaScript.  
+This project showcases a modern approach to responsive web design, animations, and interactivity without any frontend frameworks.
 
-## 🚀 Tech Stack
+## Features
 
-- **HTML5** - Semantic and accessible markup
-- **CSS3** - Flexbox, Grid, animations, and CSS variables
+- Fully responsive and cross-browser compatible interface.
+- Beautiful landing page with the following sections:
+  - Hero banner
+  - Popular items
+  - About us
+  - Trending products
+  - Newsletter subscription
+  - Footer with social media links
+- Simple yet smooth content animations.
+- Mobile-friendly navigation menu.
+- Sushi and Japanese drinks gallery.
 
-## 🔥 Live Demo
+## Technologies Used
 
-https://sayaxxx05.github.io/sushiman-project/
+- HTML5
+- CSS3 (BEM naming convention)
+- Vanilla JavaScript
+- SVG & PNG assets
 
-## ✨ Features
+## Project Structure
 
-- 🎨 **CSS Variables**: Maintain a consistent and adjustable styling approach across the project.
-- 📂 **Importing CSS Files**: Modular and organized styling structure.
-- 📏 **Flexbox & Positioning**: Responsive and structured layouts.
-- 🖥 **Rendering HTML via JavaScript**: Reusable functions for dynamic content generation.
-- 🎬 **Smooth Animations**: Subtle transitions for enhanced UX.
-- 🏗 **BEM Methodology**: Clear and maintainable class naming.
-- 📁 **Organized File Structure**: Easy navigation and asset management.
-- 📱 **Responsive Design**: Fully optimized for all screen sizes.
-
-## 📌 Website Sections
-
-✔️ **Navigation Bar** - Sticky and user-friendly header with smooth scrolling.
-✔️ **Creative Hero Section** - Eye-catching introduction with engaging visuals.
-✔️ **About Us Section** - Insight into the restaurant’s history and mission.
-✔️ **Popular Food, Trending Sushi, and Drinks Sections** - Showcasing menu highlights.
-✔️ **Newsletter Signup** - Encouraging users to subscribe.
-✔️ **Footer** - Essential links and restaurant details.
-
-## 📷 Screenshots
-
-<img width="1440" alt="Screenshot 2025-03-22 at 15 59 31" src="https://github.com/user-attachments/assets/f1ea1b64-67f4-4759-a580-16b855af9c99" />
-
-<img width="1440" alt="Screenshot 2025-03-22 at 15 59 59" src="https://github.com/user-attachments/assets/663f65b2-c412-4294-a24d-801f26db241e" />
-
-<img width="1440" alt="Screenshot 2025-03-22 at 16 00 16" src="https://github.com/user-attachments/assets/8b3c1753-e350-41ba-9d3d-7683b8cea17a" />
-
-## 🎯 How to Run the Project
-
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/sayaxxx05/sushiman-project.git
-   ```
-2. **Navigate to the project directory**:
-   ```sh
-   cd sushiman-project
-   ```
-3. **Open `index.html` in your browser** or use a live server.
+```plaintext
+├── index.html
+├── css/
+│   ├── style.css
+│   └── sections/
+│       ├── about.css
+│       ├── footer.css
+│       ├── header.css
+│       ├── hero.css
+│       ├── popular.css
+│       ├── subscribe.css
+│       └── trending.css
+├── js/
+│   └── script.js
+├── assets/  # Images and icons
+└── README.md
+```
+   
