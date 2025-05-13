@@ -44,3 +44,5 @@ This project showcases a modern approach to responsive web design, animations, a
 └── README.md
 ```
    
+## Live Demo
+This is the link to the GitHub Pages: https://sayaxxx05.github.io/sushiman-project/
